@@ -1,5 +1,6 @@
 # Java-Projects
 
+## Project 1: Polynomial local minimizer
 The first project finds the local minimum of a polynomial function of order n using steepest gradient descent. 
 <img width="627" alt="Screenshot 2023-07-14 at 15 01 48" src="https://github.com/charlottevedrines/Java-Projects/assets/97196465/69a70c25-15b0-4ed9-a34c-556495135403">
 
@@ -11,7 +12,7 @@ Steepest descent is a special case of gradient descent where the step length is 
   
 Finally, each algorithm will be evaluated based on the three metrics: norm of the gradient, number of iterations needed and computation time needed to determine the best performer in each category and the overall best performer.
 
-# Citation 
+# Citations 
 This project was given as an assignment in Professor Aleman's class at the University of Toronto.
 calcworkshop: https://calcworkshop.com/partial-derivatives/extrema-multivariable-functions/
 

@@ -11,4 +11,7 @@ Steepest descent is a special case of gradient descent where the step length is 
   
 Finally, each algorithm will be evaluated based on the three metrics: norm of the gradient, number of iterations needed and computation time needed to determine the best performer in each category and the overall best performer.
 
+# Citation 
 This project was given as an assignment in Professor Aleman's class at the University of Toronto.
+calcworkshop: https://calcworkshop.com/partial-derivatives/extrema-multivariable-functions/
+

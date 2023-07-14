@@ -1,7 +1,7 @@
 # Java-Projects
 
 The first project finds the local minimum of a polynomial function of order n using steepest gradient descent. 
-[[A-3D-surface-plot-demonstrating-local-and-global-minima.jpeg|alt=octocat]]
+![A-3D-surface-plot-demonstrating-local-and-global-minima](https://github.com/charlottevedrines/Java-Projects/assets/97196465/76e1f240-ba7e-439c-8bb2-73b36a0eb317)
 
 Steepest descent is a special case of gradient descent where the step length is chosen to minimize the objective function value. The step size chosen will significantly impact the perform of the algorithm. Therefore, this project will utilize three different methods to calculate the step size:
 - Fixed step size

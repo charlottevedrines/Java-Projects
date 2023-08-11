@@ -14,5 +14,6 @@ Finally, each algorithm will be evaluated based on the three metrics: norm of th
 
 # Citations 
 This project was given as an assignment in Professor Aleman's class at the University of Toronto.
-calcworkshop: https://calcworkshop.com/partial-derivatives/extrema-multivariable-functions/
+
+The image was taken from the website [calcworkshop](https://calcworkshop.com/partial-derivatives/extrema-multivariable-functions/)
 

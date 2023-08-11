@@ -13,7 +13,8 @@ Steepest descent is a special case of gradient descent where the step length is 
 Finally, each algorithm will be evaluated based on the three metrics: norm of the gradient, number of iterations needed and computation time needed to determine the best performer in each category and the overall best performer.
 
 ### Running the code
-You can use this algorithm to minimize polynomial function(s) you would like. Enter the coefficients of the polynomial function(s) in a .txt file. Use demo.txt in this repo as an example. 
+You can use this algorithm to minimize any polynomial function(s) you would like. Enter a grid of coefficients of the polynomial function(s) you would like minimized in a .txt file. The number of columns in your coefficient grid represent the order of your polynomial function, the rows the number of terms and of stars the number of functions. Use demo.txt in this repo as an example. 
+Enter the option 'L' followed by the name of your .txt file to input your desired polynomial function(s).
 
 # Citations 
 This project was given as an assignment in Professor Aleman's class at the University of Toronto.

@@ -1,7 +1,7 @@
 # Java-Project
 
 ## Project name: Polynomial local minimizer
-The first project finds the local minimum of a polynomial function of order n using steepest gradient descent. 
+This project finds the local minimum of a polynomial function of order n using steepest gradient descent using Java. 
 <img width="627" alt="Screenshot 2023-07-14 at 15 01 48" src="https://github.com/charlottevedrines/Java-Projects/assets/97196465/69a70c25-15b0-4ed9-a34c-556495135403">
 
 
